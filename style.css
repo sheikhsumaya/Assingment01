@@ -1,0 +1,165 @@
+h1 {
+  font-family: "Chivo", sans-serif;
+  font-size: 50px;
+  padding: 20px;
+}
+body {
+  margin: 0%;
+  padding: 0%;
+}
+.head {
+  color: rgb(36, 183, 219);
+  margin: 0%;
+}
+
+.together {
+  display: flex;
+  margin-bottom: 100px;
+  padding-left: 80px;
+}
+.section {
+  margin: 0%;
+}
+.upper-div {
+  margin: 0px;
+  width: 50%;
+  padding: 20px 20px;
+  height: 450px;
+  margin-top: 5%;
+  font-weight: 200px;
+  font-family: cursive;
+}
+.together img {
+  width: 500px;
+  padding-top: 10%;
+  padding-left: 30%;
+}
+p {
+  margin-block: 100px;
+}
+.first-button {
+  text-decoration: none;
+  background-color: rgb(49, 50, 116);
+  padding: 10px 30px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 500;
+  font-family: cursive;
+  margin-block: 200px;
+}
+.box-shadow {
+  box-shadow: -10px 0 0px -5px rgb(76, 76, 172);
+}
+.pera {
+  margin-bottom: 40px;
+  margin-top: 50px;
+}
+.mission {
+  text-align: center;
+}
+.three-img {
+  width: 150px;
+}
+.middle {
+  display: flex;
+  margin: auto;
+}
+.packet1 {
+  background-color: rgba(167, 236, 236, 0.664);
+  border-radius: 40px;
+  font-family: "Lobster", cursive;
+}
+.packet2 {
+  background-color: rgba(237, 240, 202, 0.589);
+  border-radius: 40px;
+  font-family: "Lobster", cursive;
+}
+.packet3 {
+  background-color: rgba(228, 191, 230, 0.555);
+  border-radius: 40px;
+  font-family: "Lobster", cursive;
+}
+.para2 {
+  margin-bottom: 40px;
+  margin-top: 50px;
+  font-weight: 700px;
+  font-family: cursive;
+}
+.card {
+  width: 33.33%;
+  padding-inline: 30px;
+  margin: 15px;
+}
+.third-div {
+  background-image: url(/mission-2022-main/images/shapes/shape-1.png);
+  display: flex;
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 250px;
+  margin: 100px;
+}
+.two-img {
+  width: 60%;
+  margin-left: 60px;
+}
+.limits {
+  margin-right: 0px;
+  font-family: cursive;
+}
+.mission-section {
+  margin-inline: 145px;
+}
+.fourth-div {
+  background-image: url(/mission-2022-main/images/shapes/shape-1.png);
+  background-repeat: no-repeat;
+  background-position: right 300px;
+  background-size: 150px;
+  margin: 100px;
+  display: flex;
+}
+
+.two-img2 img {
+  width: 370px;
+  margin-left: -440px;
+}
+.letter {
+  margin-right: 0px;
+  font-family: cursive;
+  padding-right: 500px;
+  padding-bottom: 210px;
+}
+.img4 img {
+  width: 400px;
+  border-radius: 40px;
+}
+.corona-section {
+  display: flex;
+  margin-inline: 150px;
+  background-image: url(/mission-2022-main/images/shapes/shape-6.png);
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-position: right 10px;
+}
+.corona-para {
+  margin-left: 80px;
+}
+.footer-h {
+  font-family: "Lobster", cursive;
+  text-align: center;
+  color: rgb(233, 236, 236);
+  padding-top: 50px;
+}
+#footer-para {
+  font-family: cursive;
+  text-align: center;
+  color: white;
+  padding-bottom: 100px;
+}
+.footer {
+  background-color: black;
+  text-align: center;
+}
+.footer p {
+  padding: 0%;
+  margin: 0%;
+}

@@ -91,7 +91,7 @@ p {
   margin: 15px;
 }
 .third-div {
-  background-image: url(/images/shapes/shape-1.png);
+  background-image: url(images/shapes/shape-1.png);
   display: flex;
   background-repeat: no-repeat;
   background-position: left;
@@ -110,7 +110,7 @@ p {
   margin-inline: 145px;
 }
 .fourth-div {
-  background-image: url(/images/shapes/shape-1.png);
+  background-image: url(images/shapes/shape-1.png);
   background-repeat: no-repeat;
   background-position: right 300px;
   background-size: 150px;
@@ -135,7 +135,7 @@ p {
 .corona-section {
   display: flex;
   margin-inline: 150px;
-  background-image: url(/images/shapes/shape-6.png);
+  background-image: url(images/shapes/shape-6.png);
   background-size: 250px;
   background-repeat: no-repeat;
   background-position: right 10px;
